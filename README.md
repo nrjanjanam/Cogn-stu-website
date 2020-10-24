@@ -1,1 +1,1 @@
-# Cogn-stu-website
+Cognizant Student Website
